@@ -9,17 +9,23 @@ An Android app to load, search and edit 5500 English words.
 
 Java File Introduce
 ------------------------
- * MainActivity.java    line208-line271 is critical, other lines are old and useless codes.
- * EnglishActivity.java    Important: as user interface, controller;
- * MyDBengwordUtil.java    Important: to create table, select one record, insert update, load file data;
- * MyTTSUtil.java    old and useless codes.
+ * MainActivity.java    
+line208-line271 is critical, other lines are old and useless codes.
+ * EnglishActivity.java    
+Important: as user interface, controller;
+ * MyDBengwordUtil.java    
+Important: to create table, select one record, insert update, load file data;
+ * MyTTSUtil.java    
+old and useless codes.
 
-AndroidManifest.xml    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-thanks.txt    a small amount of helpers for me, sincerely thank you!
+AndroidManifest.xml    
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+thanks.txt    
+a small amount of helpers for me, sincerely thank you!
 
 
 Manual
 ------------------------
-see help.txt
+see [help.txt](https://github.com/Zorrow2017/engword/blob/master/help.txt)
 
 
