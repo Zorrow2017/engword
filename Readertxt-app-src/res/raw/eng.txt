@@ -1,0 +1,353 @@
+Enable at July
+--by James L.A.
+
+
+
+
+Chapter One
+
+The present global consumption of the 10l0t coal equ./a produces globally =>2.2 x 1010t
+of CO2 per year. Half of this is dissolved in the water of the oceans, and half remains in the
+atmosphere. If the annual energy consumption does not continue to rise, the amount of CO2
+in the atmosphere will double only after about 200 years. However, it is necessary to take
+into account that energy consumption continues to increase. At the present time the growth of
+one percent per year is relatively low. In the developing countries, energy consumption even
+decreased in 1999, because of the inability of these countries to pay for more energy. If global
+energy consumption continues to increase at about one percent per year, the CO2 concentration
+in the atmosphere will have doubled already after about 100 years. This increase is less the
+result of a per capita increase in energy consumption than a result of the increasing global
+population. The increasing CO2 concentration in the atmosphere will have consequences for
+the temperature of the earth.
+1.3.2 The temperature of the earth
+The temperature of the earth is stationary, i. e., constant in time if the energy current absorbed
+from the sun and the energy current emitted by the earth are in balance. We want to estimate
+the temperature of the earth in this steady state condition. For this purpose we will make use
+of radiation laws not derived until the following chapter.
+The energy current density from the sun at the position of the earth (but outside the earth's
+atmosphere) is
+For the case of complete absorption, the energy current absorbed by the entire earth is the
+energy current incident on the projected area of the earth:
+^E.abs = я/?е ./E.sun with Re = 6370km (radius of the earth).
+According to the Stefan-Boltzmann radiation law, the energy current density emitted by the
+earth into space is given by
+JE.earth = оГе4 where о = 5.67 x 10"8 W/(m2K4) ,
+is the Stefan-Boltzmann constant. The energy current emitted by the entire earth is
+From the steady state condition /E.abs = %,emit it follows that the estimated mean temperature
+of the earth is Ге= 275 K.
+The mean temperature of the earth is in fact around 288 K. The approximate agreement is,
+however, only coincidental. Taking into account that about 30% of the incident solar radiation
+is reflected back into space by the atmosphere of the earth and thus only about 70% A kW/m2)
+reaches the surface of the earth, a temperature of 258 К then results. The actual temperature
+of the earth is in fact greater, because the radiation emitted by the earth is partly absorbed
+in the atmosphere. The atmosphere then becomes warmer and emits heat back to the earth.
+The same effect occurs in greenhouses, where the glass covering absorbs the thermal radiation
+emitted by the greenhouse and emits some of it back into the greenhouse.
+We can understand the greenhouse effect of the atmosphere using a simple model. Due to
+a temperature of 6000 К of the sun, the solar radiation spectrum (expressed as energy current
+
+
+
+
+Chapter Two
+
+1.3 The greenhouse effect
+I 0.5
+atmosphere
+p
+'
+dearth
+earth
+Figure 1.2: Balance of the absorbed and emitted energy currents on the surface of the earth.
+per wavelength) has a maximum at about 0.5 pm, at which the atmosphere is transparent. Due
+to the lower temperature of the earth, the emission from the earth has its maximum at about
+10pm (in the infrared). All tri-atomic molecules, including CO2, are good absorbers in the
+infrared region. Consequently, while most of the incident solar radiation reaches the surface
+of the earth, a great part of the energy emitted from the surface is absorbed in the atmosphere.
+This causes wanning of the atmosphere, which in turn leads to heat emission back to the earth.
+The temperature of the earth is a maximum when the radiation from the surface of the earth
+is completely absorbed by the atmosphere, a situation which will be faced if the atmospheric
+concentration of CO2 continues to rise.
+In our model, we assume that the earth's surface absorbs all radiation incident upon it from
+the sun and the atmosphere. In the steady state, it must also emit the same energy current. All
+energy emitted in the infrared region is assumed to be absorbed by the atmosphere. This leads
+to the condition of Figure 1.2:
+'E, earth == 'E.sun т ^'E. atm •
+Since radiation emitted by the earth's surface is fully absorbed by the atmosphere, the solar
+energy current incident on the surface of the earth can only be emitted into space by emission
+from the atmosphere. This leads to the following conditions:
+~^E,atm = -fe.sun and /e. earth = 2/E:sun ■
+It then follows that
+/e. earth - 4^cre4greenhousc = 2nR2e x 1.3kW/m2 .
+This yields a temperature of
+7e,greenhouse = ^2Te=l.l9x 275К = 327К = 54°C .
+With this mean temperature, the earth would be virtually uninhabitable.
+However, the increased absorption of infrared radiation in the atmosphere due to human
+influences represents only half of the CO2 production. The other half results from methane,
+fiuorinated hydrocarbons and nitrogen oxides.
+In order to estimate the greenhouse effect we have treated the atmosphere as a fire screen,
+allowing the solar radiation to pass through, but absorbing the radiation from the earth. In view
+of the fact that the temperature of the atmosphere is not uniform, a better description would be.
+
+At first each day which passed by for Mary Lennox was exactly like the others. Every morning she awoke in her tapes tried room and found Martha kneeling upon the hearth building her fire; every morning she ate her breakfast in the nursery which had nothing amusing in it;and after each breakfast she gazed out of the window across to the huge moor which seemed to spread out on all sides and climb up to the sky, and after she had stared for a while she realized that if she did not go out she would have to stay in and do nothing--and so she went out.
+　　She did not know that this was the best thing she could have done, and she did not know that, when she began to walk quickly or even run along the paths and down the avenue,she was stirring her slow blood and making herself stronger by fighting with the wind which swept down from the moor.
+　　She ran only to make herself warm, and she hated the wind which rushed at her face and roared and held her back as if it were some giant she could not see. But the big breaths of rough fresh air blown over the heather filled her lungs with something which was good for her whole thin body and whipped some red color into her cheeks and brightened her dull eyes when she did not know anything about it.
+　　But after a few days spent almost entirely out of doorsshe wakened one morning knowing what it was to be hungry,and when she sat down to her breakfast she did not glancedisdainfully at her porridge and push it away, but tookup her spoon and began to eat it and went on eating ituntil her bowl was empty.
+　　"Tha' got on well enough with that this mornin', didn't tha'?"said Martha.
+　　"It tastes nice today," said Mary, feeling a littlesurprised her self.
+　　"It's th' air of th' moor that's givin' thee stomachfor tha' victuals," answered Martha. "It's luckyfor thee that tha's got victuals as well as appetite.
+　　There's been twelve in our cottage as had th' stomach an'
+　　nothin' to put in it. You go on playin' you out o'
+　　doors every day an' you'll get some flesh on your bones an'
+　　you won't be so yeller.""I don't play," said Mary. "I have nothing to play with.""Nothin' to play with!" exclaimed Martha. "Our childrenplays with sticks and stones. They just runs about an'
+　　shouts an' looks at things." Mary did not shout,but she looked at things. There was nothing else to do.
+　　She walked round and round the gardens and wanderedabout the paths in the park. Sometimes she looked forBen Weatherstaff, but though several times she saw himat work he was too busy to look at her or was too surly.
+　　Once when she was walking toward him he picked up his spadeand turned away as if he did it on purpose.
+　　One place she went to oftener than to any other.
+　　It was the long walk outside the gardens with the wallsround them. There were bare flower-beds on eitherside of it and against the walls ivy grew thickly.
+　　There was one part of the wall where the creeping darkgreen leaves were more bushy than elsewhere. It seemedas if for a long time that part had been neglected.
+　　The rest of it had been clipped and made to look neat,but at this lower end of the walk it had not been trimmedat all.
+　　A few days after she had talked to Ben Weatherstaff,Mary stopped to notice this and wondered why it was so.
+　　She had just paused and was looking up at a long spray of ivyswinging in the wind when she saw a gleam of scarlet andheard a brilliant chirp, and there, on the top of the wall,forward perched Ben Weatherstaff's robin redbreast,tilting forward to look at her with his small head onone side.
+　　"Oh!" she cried out, "is it you--is it you?" And itdid not seem at all queer to her that she spoke to himas if she were sure that he would understand and answer her.
+　　He did answer. He twittered and chirped and hopped alongthe wall as if he were telling her all sorts of things.
+　　It seemed to Mistress Mary as if she understood him, too,though he was not speaking in words. It was as if hesaid:
+　　"Good morning! Isn't the wind nice? Isn't the sun nice? Isn'teverything nice? Let us both chirp and hop and twitter.
+　　Come on! Come on!"Mary began to laugh, and as he hopped and took little flightsalong the wall she ran after him. Poor little thin, sallow,ugly Mary--she actually looked almost pretty for a moment.
+　　"I like you! I like you!" she cried out, pattering down the walk;and she chirped and tried to whistle, which last she didnot know how to do in the least. But the robin seemedto be quite satisfied and chirped and whistled back at her.
+　　At last he spread his wings and made a darting flightto the top of a tree, where he perched and sang loudly.
+　　That reminded Mary of the first time she had seen him.
+　　He had been swinging on a tree-top then and she had beenstanding in the orchard. Now she was on the other sideof the orchard and standing in the path outside a wall--muchlower down--and there was the same tree inside.
+　　"It's in the garden no one can go into," she said to herself.
+　　"It's the garden without a door. He lives in there.
+　　How I wish I could see what it is like!"She ran up the walk to the green door she had enteredthe first morning. Then she ran down the path throughthe other door and then into the orchard, and when shestood and looked up there was the tree on the other sideof the wall, and there was the robin just finishing hissong and, beginning to preen his feathers with his beak.
+　　"It is the garden," she said. "I am sure it is."She walked round and looked closely at that side of theorchard wall, but she only found what she had foundbefore--that there was no door in it. Then she ranthrough the kitchen-gardens again and out into the walkoutside the long ivy-covered wall, and she walked tothe end of it and looked at it, but there was no door;and then she walked to the other end, looking again,but there was no door.
+　　"It's very queer," she said. "Ben Weatherstaff saidthere was no door and there is no door. But there musthave been one ten years ago, because Mr. Craven buriedthe key."This gave her so much to think of that she began to bequite interested and feel that she was not sorry that shehad come to Misselthwaite Manor. In India she had alwaysfelt hot and too languid to care much about anything.
+　　The fact was that the fresh wind from the moor had begunto blow the cobwebs out of her young brain and to wakenher up a little.
+　　She stayed out of doors nearly all day, and when she satdown to her supper at night she felt hungry and drowsyand comfortable. She did not feel cross when Marthachattered away. She felt as if she rather liked to hear her,and at last she thought she would ask her a question.
+　　She asked it after she had finished her supper and had satdown on the hearth-rug before the fire.
+　　"Why did Mr. Craven hate the garden?" she said.
+　　She had made Martha stay with her and Martha had notobjected at all. She was very young, and used to a crowdedcottage full of brothers and sisters, and she found itdull in the great servants' hall downstairs where thefootman and upper-housemaids made fun of her Yorkshirespeech and looked upon her as a common little thing,and sat and whispered among themselves. Martha likedto talk, and the strange child who had lived in India,and been waited upon by "blacks," was novelty enoughto attract her.
+　　She sat down on the hearth herself without waitingto be asked.
+　　"Art tha' thinkin' about that garden yet?" she said.
+　　"I knew tha' would. That was just the way with me when Ifirst heard about it.""Why did he hate it?" Mary persisted.
+　　Martha tucked her feet under her and made herselfquite comfortable.
+　　"Listen to th' wind wutherin' round the house," she said.
+　　"You could bare stand up on the moor if you was out onit tonight."Mary did not know what "wutherin'" meant until she listened,and then she understood. It must mean that hollowshuddering sort of roar which rushed round and round thehouse as if the giant no one could see were buffeting itand beating at the walls and windows to try to break in.
+　　But one knew he could not get in, and somehow it madeone feel very safe and warm inside a room with a redcoal fire.
+　　"But why did he hate it so?" she asked, after shehad listened. She intended to know if Martha did.
+　　Then Martha gave up her store of knowledge.
+　　"Mind," she said, "Mrs. Medlock said it's not to betalked about. There's lots o' things in this place that'snot to be talked over. That's Mr. Craven's orders.
+　　His troubles are none servants' business, he says.
+　　But for th' garden he wouldn't be like he is. It wasMrs. Craven's garden that she had made when first theywere married an' she just loved it, an' they used to 'tend the flowers themselves. An' none o' th' gardeners wasever let to go in. Him an' her used to go in an'
+　　shut th' door an' stay there hours an' hours, readin'
+　　and talkin'. An, she was just a bit of a girl an'
+　　there was an old tree with a branch bent like a seaton it. An' she made roses grow over it an' she usedto sit there. But one day when she was sittin' there th'
+　　branch broke an' she fell on th' ground an' was hurtso bad that next day she died. Th' doctors thought he'dgo out o' his mind an' die, too. That's why he hates it.
+　　No one's never gone in since, an' he won't let any one talkabout it."Mary did not ask any more questions. She looked atthe red fire and listened to the wind "wutherin'."It seemed to be "wutherin'" louder than ever.
+　　At that moment a very good thing was happening to her.
+　　Four good things had happened to her, in fact, since shecame to Misselthwaite Manor. She had felt as if shehad understood a robin and that he had understood her;she had run in the wind until her blood had grown warm;she had been healthily hungry for the first time in her life;and she had found out what it was to be sorry for some one.
+　　But as she was listening to the wind she began to listento something else. She did not know what it was,because at first she could scarcely distinguish it fromthe wind itself. It was a curious sound--it seemed almostas if a child were crying somewhere. Sometimes the windsounded rather like a child crying, but presently MistressMary felt quite sure this sound was inside the house,not outside it. It was far away, but it was inside.
+　　She turned round and looked at Martha.
+　　"Do you hear any one crying?" she said.
+　　Martha suddenly looked confused.
+　　"No," she answered. "It's th' wind. Sometimes itsounds like as if some one was lost on th' moor an'
+　　wailin'. It's got all sorts o' sounds.""But listen," said Mary. "It's in the house--down oneof those long corridors."And at that very moment a door must have been openedsomewhere downstairs; for a great rushing draft blew alongthe passage and the door of the room they sat in was blownopen with a crash, and as they both jumped to their feetthe light was blown out and the crying sound was swept downthe far corridor so that it was to be heard more plainly thanever.
+　　"There!" said Mary. "I told you so! It is some onecrying--and it isn't a grown-up person."Martha ran and shut the door and turned the key, but beforeshe did it they both heard the sound of a door in some farpassage shutting with a bang, and then everything was quiet,for even the wind ceased "wutherin'" for a few moments.
+　　"It was th' wind," said Martha stubbornly.
+　　"An' if it wasn't, it was little Betty Butterworth,th' scullery-maid. She's had th' toothache all day."But something troubled and awkward in her manner madeMistress Mary stare very hard at her. She did not believeshe was speaking the truth.
+Chapter 6 There Was Someone Crying--There Was!
+The next day the rain poured down in torrents again,and when Mary looked out of her window the moor was almosthidden by gray mist and cloud. There could be no goingout today.
+　　"What do you do in your cottage when it rains like this?"she asked Martha.
+　　"Try to keep from under each other's feet mostly,"Martha answered. "Eh! there does seem a lot of us then.
+　　Mother's a good-tempered woman but she gets fair moithered.
+　　The biggest ones goes out in th' cow-shed and plays there.
+　　Dickon he doesn't mind th' wet. He goes out just th'
+　　same as if th' sun was shinin'. He says he sees thingson rainy days as doesn't show when it's fair weather.
+　　He once found a little fox cub half drowned in its hole and hebrought it home in th' bosom of his shirt to keep it warm.
+　　Its mother had been killed nearby an' th' hole was swumout an' th' rest o' th' litter was dead. He's got it athome now. He found a half-drowned young crow another time an'
+　　he brought it home, too, an' tamed it. It's named Sootbecause it's so black, an' it hops an' flies about withhim everywhere."The time had come when Mary had forgotten to resentMartha's familiar talk. She had even begun to find itinteresting and to be sorry when she stopped or went away.
+　　The stories she had been told by her Ayah when she livedin India had been quite unlike those Martha had to tell aboutthe moorland cottage which held fourteen people who livedin four little rooms and never had quite enough to eat.
+　　The children seemed to tumble about and amuse themselveslike a litter of rough, good-natured collie puppies.
+　　Mary was most attracted by the mother and Dickon.
+　　When Martha told stories of what "mother" said or did theyalways sounded comfortable.
+　　"If I had a raven or a fox cub I could play with it,"said Mary. "But I have nothing."Martha looked perplexed.
+　　"Can tha' knit?" she asked.
+　　"No," answered Mary.
+　　"Can tha'sew?""No.""Can tha' read?""Yes.""Then why doesn't tha, read somethin', or learn a bit o'
+　　spellin'? Tha'st old enough to be learnin' thy book a goodbit now.""I haven't any books," said Mary. "Those I had were leftin India.""That's a pity," said Martha. "If Mrs. Medlock'd let theego into th' library, there's thousands o' books there."Mary did not ask where the library was, because she wassuddenly inspired by a new idea. She made up her mindto go and find it herself. She was not troubled aboutMrs. Medlock. Mrs. Medlock seemed always to be in hercomfortable housekeeper's sitting-room downstairs.
+　　In this queer place one scarcely ever saw any one at all.
+　　In fact, there was no one to see but the servants,and when their master was away they lived a luxuriouslife below stairs, where there was a huge kitchen hungabout with shining brass and pewter, and a large servants'
+　　hall where there were four or five abundant meals eatenevery day, and where a great deal of lively romping went onwhen Mrs. Medlock was out of the way.
+　　Mary's meals were served regularly, and Martha waited on her,but no one troubled themselves about her in the least.
+　　Mrs. Medlock came and looked at her every day or two,but no one inquired what she did or told her what to do.
+　　She supposed that perhaps this was the English way oftreating children. In India she had always been attendedby her Ayah, who had followed her about and waited on her,hand and foot. She had often been tired of her company.
+　　Now she was followed by nobody and was learning to dressherself because Martha looked as though she thought she wassilly and stupid when she wanted to have things handed to herand put on.
+　　"Hasn't tha' got good sense?" she said once, when Maryhad stood waiting for her to put on her gloves for her.
+　　"Our Susan Ann is twice as sharp as thee an' she's onlyfour year' old. Sometimes tha' looks fair soft in th' head."Mary had worn her contrary scowl for an hour after that,but it made her think several entirely new things.
+　　She stood at the window for about ten minutes this morningafter Martha had swept up the hearth for the last timeand gone downstairs. She was thinking over the new ideawhich had come to her when she heard of the library.
+　　She did not care very much about the library itself,because she had read very few books; but to hear of it broughtback to her mind the hundred rooms with closed doors.
+　　She wondered if they were all really locked and whatshe would find if she could get into any of them.
+　　Were there a hundred really? Why shouldn't she go and seehow many doors she could count? It would be somethingto do on this morning when she could not go out.
+　　She had never been taught to ask permission to do things,and she knew nothing at all about authority, so she wouldnot have thought it necessary to ask Mrs. Medlock if shemight walk about the house, even if she had seen her.
+　　She opened the door of the room and went into the corridor,and then she began her wanderings. It was a long corridorand it branched into other corridors and it led her upshort flights of steps which mounted to others again.
+　　There were doors and doors, and there were pictureson the walls. Sometimes they were pictures of dark,curious landscapes, but oftenest they were portraitsof men and women in queer, grand costumes made of satinand velvet. She found herself in one long gallerywhose walls were covered with these portraits. She hadnever thought there could be so many in any house.
+　　She walked slowly down this place and stared at the faceswhich also seemed to stare at her. She felt as if theywere wondering what a little girl from India was doingin their house. Some were pictures of children--littlegirls in thick satin frocks which reached to their feetand stood out about them, and boys with puffed sleevesand lace collars and long hair, or with big ruffs aroundtheir necks. She always stopped to look at the children,and wonder what their names were, and where they had gone,and why they wore such odd clothes. There was a stiff,plain little girl rather like herself. She wore a greenbrocade dress and held a green parrot on her finger.
+　　Her eyes had a sharp, curious look.
+
+
+
+
+Chapter Three
+
+Here h = h/2%. The velocity с of the photons is their velocity in the cavity. If the cavity is
+empty, the photons have the velocity of light in vacuum Co. With increasing index of refraction
+the velocity co/n of the photons decreases, resulting in an increasing density of states for the
+photons.
+A problem results when photons pass from one medium to another with a lower index
+of refraction, i. e., from a higher to a lower density of states, such as from glass to air. In
+order to accommodate all photons in the low-index material with fewer photon states, the
+occupation function /Y would have to increase. This, however, is not allowed by the second
+principle of thermodynamics, as will be shown later, since it would result in annihilation of
+entropy. For the same value of the distribution function /у(йсо), to keep the entropy constant,
+only part of the photons can be accommodated in the low-index material. Nature chooses to
+totally reflect back into the high-index material, the photons which can not be accommodated
+in the fewer states of the medium with the lower index of refraction. Exchange of photons
+between two media is restricted to the same number of states in both media in such a way
+that all states in a restricted solid angle in the high-index medium communicate with all states
+in an unrestricted solid angle in the low-index medium. Snell's law of refraction is another
+consequence of this principle. In addition to total internal reflection, a discontinuity of the
+refractive index at an interface causes reflection even for photons within the solid angle range
+in which photons are exchanged, e. g., all photons incident from the low-index medium. This
+type of reflection, however, can be eliminated by an anti-reflection coating, in contrast to
+the total internal reflection of the photons incident from the high-index medium, but with
+momenta outside the restricted solid angle.
+The density of states B.6) accounts for all photon states, regardless of their direction of
+motion, which is the direction of their momentum p. At every location within the cavity, the
+motion of the photons is in all directions, i. e., their motion is isotropic. Of interest to us here
+are the photons which are able to leave the cavity through the hole. At any location within
+the cavity, these are the photons moving towards the hole, i.e., having a momentum vector
+pointing in this direction. Since the photons do not collide with each other and maintain their
+direction, we can find these photons by determining their density per solid angle at every
+location inside the cavity and multiply the density per solid angle by the solid angle element
+d£2 subtended by the hole. Imagine here a sphere, with a radius R given by the distance to the
+hole, around the location of interest of the photon density per solid angle d£2. This solid angle
+element dQ. includes all photons passing through the surface element dO of the sphere, which
+defines the hole. The solid angle is defined as dil = dO/R2.
+The maximum value of Q, is 4n, for a solid angle which includes all directions. For an
+isotropic distribution of states in momentum space, the density of states per solid angle is
+
+
+
+
+Chapter Four
+
+Йсо = 2.48 eV and distinctly different from the value Йсотах found from the photon energy spec-
+spectrum. Although both spectra are called solar spectra, they are completely different quantities
+and have different units. We will, therefore, use different names and call the energy current
+density per energy interval dJE/dhbu as a function of the photon energy, shown in Figure 2.9,
+the energy spectrum, and the energy current density per wavelength interval as a function of
+the wavelength dJE/dX, shown in Figure 2.10, the wavelength spectrum.
+The energy current density outside the atmosphere, that is the integral over each of the
+curves in Figure 2.9 or 2.10, has a value of
+7£.AMO = 1353W/m2. B.40)
+The form of the spectrum in Figure 2.9 by itself is not sufficient to assert that the source,
+namely the sun, actually has a temperature of 7s = 5800 K. While the spectrum has its max-
+maximum at the photon energy expected for this temperature, it is also possible to produce an
+energy current density per photon energy with the form and magnitude as shown in Figure 2.9
+with much colder light bulbs and appropriate filters. This is the basis for solar simulators used
+to test solar cells. The temperature of the radiation source, provided it is black, only follows
+from the spectrum after considering the solid angle dQ. subtended by the radiation source,
+which for the sun is Q.s = 6.8 x 10~5.
+Only the energy current density per solid angle (and per photon energy or per wavelength)
+is a measure of the temperature of a thermal emitter. For a solar simulator, radiating the same
+energy current density per photon energy onto an absorber, the radiation emerges from a much
+larger solid angle than for the sun.
+2.3.1 Air Mass
+Solar radiation is partially absorbed during its passage through the atmosphere. The absorption
+is almost entirely caused by gases of low concentration in the infrared region of the solar
+spectrum, by water vapour (H2O), carbon dioxide (CO2), laughing-gas (N2O), methane (CH4),
+fluorinated hydrocarbons, as well as by dust and, in the ultraviolet region of the spectrum, by
+ozone and oxygen. Absorption of course increases with the length of the path through the
+atmosphere and therefore with the mass of air through which the radiation passes. For a
+thickness /0 of the atmosphere, the path length / through the atmosphere for radiation from the
+sun incident at an angle a relative to the normal to the earth's surface is given by
+/ = /0/ cos a .
+The ratio I/Iq is called the air-mass coefficient. It characterizes the real solar spectrum result-
+resulting from the absorption of a layer of air of thickness /. The spectrum outside the atmosphere
+is designated by АМ0 and that on the surface of the earth for normal incidence by AMI. A
+typical spectrum for moderate climates is AM 1.5, which corresponds to an angle of incidence
+of solar radiation of 48° relative to the surface normal.
+The energy spectrum AMI.5 shown in Figure 2.11 is regarded as the standard spectrum
+for measuring the efficiency of solar cells used terrestrially, i. e., on the surface of the earth.
+The integral over this spectrum, the energy current density onto a surface normal to the sun
+for a cloudless sky, is defined to be
+7£.AMi.5=1.0kW/m2.
+
+
+
+
+Chapter Five
+
+It is due to this small value of the solid angle Q.s that the energy current density on the earth
+has a value of only 1 kW/m2. When a greater energy current density is needed in order to
+obtain higher temperatures or increase the output of solar cells, it is necessary to focus the
+nearly parallel incidence of radiation using lenses or mirrors. This reduces the irradiated area
+and increases the solid angle from which the radiation impinges on the receiver surface. What
+happens then with the energy current density per solid angle? For an answer, we will make
+use of the deliberations of Helmholtz and Clausius from the year 1864.
+Figure 2.12 shows two area elements dA\ and dA2, projected onto each other by an imag-
+imaging system. Because of the reversibility of the light path, dA2 is the image of dA\ and dA\
+is the image of dA2. We assume that both area elements are black bodies which, without any
+further illumination, emit thermal radiation towards each other through the transparent imag-
+imaging system. Although the thermal radiation will be redirected by the imaging system, once
+again, the thermal equilibrium between dA\ and dA2 must not be disturbed in order not to
+violate the Second Principle of Thermodynamics. Thus, the area dA2 must receive exactly the
+same amount of radiation from the lens or the imaging system as it emits towards it. This
+equality of absorbed and emitted energy currents must exist not only for any photon energy,
+as in Section 2.2, but also for any direction, that is any solid angle element, as defined by an
+area element on the surface of the lens. By redirecting the radiation from d4i, the imaging
+system (the lens) must therefore behave like a black body, emitting radiation towards dA2 with
+the temperature of dA\. But in contrast to a real black body, it selectively radiates only in the
+direction of dA2 and in no other direction. We have already seen that, for the propagation of
+radiation in free space, the energy current density per solid angle remains unchanged and is
+therefore exactly the same at the location of the lens in the direction towards dA2 as at the
+location of d42 from the direction of the lens. Due to thermal equilibrium, this is of course
+exactly the same as the energy current density per solid angle at the location of d4l4 During
+passage through a non-absorbing and non-emitting ideal imaging system, the energy current
+density per solid angle remains unchanged.
+The reversibility of the light path also implies thermodynamic reversibility. This in turn
+means that no entropy is created during passage through an imaging system. And in fact
+the conservation of the energy current density per solid angle in regions with the index of
+refraction n, with simultaneous conservation of the energy per photon, is identical with the
+conservation of entropy. More precisely, for the propagation of radiation not attenuated by ab-
+absorption or scattering, even when the index of refraction n changes, the occupation probability
+of the photon states /T in Eq. B.3) remains the same.
+
+
+
+
+Chapter Six
+
+The thermal energy which the absorber in Figure 2.14 supplies to the Carnot engine is con-
+contained almost entirely in the random oscillations of the atoms in a solid about their rest po-
+positions. The energy of the oscillations is quantized, similar to the electromagnetic modes of
+a cavity. For the electromagnetic field in the cavity, the vibrational quanta are the photons,
+and for the atomic oscillations of a solid, the vibrational quanta are called phonons. Phonon
+energies £r range from 0 eV to 0.05 eV. Only in exceptional cases can phonons be directly
+generated by the absorption of photons. The absorption of photons takes place through the ex-
+excitation of electrons into states of higher energy. In order that photons of any arbitrary energy
+can be absorbed, i. e., for a body to be black, a continuous, uninterrupted range of excitation
+energies must be available to the electrons. For metals, this is in fact the case. Metals would
+represent the closest approximation to an ideal black body, if they did not reflect most of the
+incident light. This type of reflection, however, can be eliminated by roughening the surface
+which renders a metal completely black. You will experience this yourself when you scrub an
+aluminium pot with some scouring powder and a cloth. The tiny aluminium particles scrubbed
+off the pot make the cloth totally black. Due to the continuous energy range for electrons in
+a metal, an electron being excited by having absorbed a photon, loses this extra energy eas-
+easily, step by step, in small portions, by generating phonons. Although this may require many
+steps, the process typically takes place in times of the order of 10~12s. Since in metals, the
+excitation energy remains for only such a short time in the electron gas, their direct utilization
+has a poor efficiency, although the emission of the excited electrons out of the metal is used
+in photomultipliers for the fast detection of single photons. Figure 3.1 is a schematic diagram
+for the absorption of a photon by an electron in a metal and the subsequent loss of the energy
+to phonons.

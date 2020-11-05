@@ -1,0 +1,12 @@
+Thanks to:
+查看Android API文档的正确方式    https://blog.csdn.net/youmingyu/article/details/53543745
+Android 权限说明大全  https://www.jianshu.com/p/84dd956d0ea1
+Android 屏幕适配：最全面的解决方案   https://www.jianshu.com/p/ec5a1a30694b
+Android 获取屏幕宽度和高度的几种方法  https://www.jianshu.com/p/1a931d943fb4
+安卓使用自己导入的db3数据库文件   https://www.cnblogs.com/jiuzhen/p/12953159.html
+Android选择文件并上传  https://www.jianshu.com/p/a229722b55fe
+
+
+
+
+这些网址在2020年11月04日-17:02:07尚且有效。

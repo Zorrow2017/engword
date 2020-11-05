@@ -1,0 +1,62 @@
+Manual of Readertxt app
+
+1. introduce
+2. basic usage
+3. senior operation
+4. functions and functions not implemented yet
+5. future version
+since 2020/11/05-12:01:06
+
+
+
+I. Introduce
+Readertxt app, engword module, current Version 1.1.0;
+
+II. Simple use
+first use, to initialize:
+install -> put engword5500.txt into root directory of phone files -> open app -> click right-top menu>setting -> waiting patiently -> done!
+You Must grant permission of storage !!!
+then, click word"english" to start;
+open app -> click left-bottom word"english" -> do whatever you want;
+
+III. Further functions
+if you click setting again, it will delete all old data, and reload data in engword5500.txt;
+
+IV. Application architecture
+MainActivity  reuse an old project, so many code are useless;
+MyDTTSUtil  speak support;
+MyDBengwordUtil  database operation;
+EnglishActivity  to show, search, edit a word;
+
+V. Future
+v1.2  to improve engword;
+v1.3  to readertxt;
+v1.4  to tidy up;
+
+
+
+Enis. 简介：
+学习5500个考研单词的手机软件，1.1版本，应用2.5MB+数据8.2MB；
+
+Zwei. 傻瓜用法：
+下载配套的engword5500.txt（https://github.com/Zorrow2017/engword），把他移动到手机文件管理器内部存储下面，使文件的路径为：内部存储/engword5500.txt；
+安装打开软件，点右上方的下拉菜单的setting项，然后软件加载数据，请耐心等待三、四分钟；
+！加载数据失败，一定要在设置里手动授予Readertxt存储的权限！
+点左下方的english单词，界面将跳转到单词页。
+
+Drei. 高级用法：
+功能按钮：前一个、后一个、朗读、编辑保存、搜索；
+输入impossible，点search，将看到impossible是第2349个单词，
+输入2350点search，将看到impossible后面的那个单词；
+输入jdbc点search，将看到提示new，请点edit之后在下面的绿色区域编辑对jdbc的解释，千万不要忘记点save保存。
+
+Vier. 开发想法：
+这个项目是在以前写的txt文件阅读器的基础上改编的，有很多没用但舍不得删除的东西，
+Readertxt半途而废，engword勉强实现了基本功能，代码凌乱不堪。
+
+Fünf. 未来版本：
+v1.2  to 强化engword的功能，比如屏幕适配、数据库表导入导出、自动初始化、滑动翻页、批量选择与模糊查询、单词项删除与排序；
+v1.3  to 完成txt文件目录分页阅读，持续的中文文本朗读，导入txt；
+v1.4  to 整理代码，美化界面；
+
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EnglishActivity">
+
+    <LinearLayout
+        android:layout_width="395dp"
+        android:layout_height="715dp"
+        android:focusable="auto"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/text_showword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:maxLength="30"
+                android:text="null"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:background="#36FF00FF"
+                android:foregroundGravity="center|fill_vertical"
+                android:text="search"
+                android:textAllCaps="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button_lastword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="&lt;--" />
+
+            <Button
+                android:id="@+id/button_wordonly"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="read"
+                android:textColor="#FF0000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/button_editsave"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#2200FF00"
+                android:text="edit"
+                android:textAllCaps="false"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/button_nextword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="next--&gt;" />
+        </LinearLayout>
+
+        <SeekBar
+            android:id="@+id/seekBar_seekword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/text_showword2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="null" />
+
+        <EditText
+            android:id="@+id/text_descword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="50dp"
+            android:background="#0D00FF00"
+            android:cursorVisible="true"
+            android:ems="10"
+            android:enabled="true"
+            android:fadeScrollbars="false"
+            android:focusable="auto"
+            android:focusableInTouchMode="true"
+            android:foregroundGravity="top|left"
+            android:inputType="textMultiLine"
+            android:maxHeight="480dp"
+            android:scrollbars="vertical"
+            android:scrollHorizontally="false"
+            android:singleLine="false"
+            android:text="@string/eng_activity_testtext"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/text_descword2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="80dp"
+            android:background="#0D00FF00"
+            android:fadeScrollbars="false"
+            android:maxLines="20"
+            android:scrollbarAlwaysDrawVerticalTrack="true"
+            android:scrollbars="vertical"
+            android:scrollHorizontally="false"
+            android:singleLine="false"
+            android:text="TextView"
+            android:visibility="visible" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

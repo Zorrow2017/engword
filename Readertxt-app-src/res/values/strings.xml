@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Readertxt</string>
+    <string name="main_input_readtext">input text to read</string>
+    <string name="main_output_debug">debug print</string>
+    <string name="main_button_getlog">get log</string>
+    <string name="main_button_readcn">中文朗读</string>
+    <string name="main_button_ismulti">is multiLines</string>
+    <string-array name="mainGlobalMenu">
+        <item>user</item>
+        <item>info</item>
+        <item>open...</item>
+        <item>setting</item>
+        <!--<item>private</item>-->
+        <item>help</item>
+    </string-array>
+    <string name="eng_activity_split">01111110</string> <!--as is 0x7e in PPP flag-->
+    <string name="eng_activity_splitter"> \t&lt;br&gt;\n</string>
+    <string name="eng_activity_engword">engword(5500)?\\.txt</string>
+    <string name="eng_activity_engword2">engword5500.txt</string>
+    <string name="eng_activity_engword3">ADDengword5500.txt</string>
+    <string-array name="engact_display">
+        <item>impossible</item>
+        <item>-1</item>
+        <item>en</item>
+        <item>您的字典里没有不可能这三个字，点击搜索按钮，然后点击edit按钮编辑，点击保存，即可修改字典。</item>
+    </string-array>
+    <string name="eng_activity_testtext">英音 [\'nʌmbə] ; 美音 [\'nʌmbə] ;		可数名词： 1.数；数字 2.号码；…号；第…号 3.电话号码 4.【英】车牌号码，登记号码 5.一首流行乐曲 6.[singular]数目；数量 7.[plural]（尤指参加某一活动的）人数 8.【术语】数 及物动词： 1.给…编号 2.【文】计算，数		词形变化 名称 numberer 时态 numbered，numbering，numbers		英语解释 put into a group determine the number or amount of place a limit on the number of a short theatrical performance that is part of a longer program a numeral or string of numerals that is used for identification the number is used in calling a particular telephone add up in number or quantity enumerate give numbers to a select company of people a concept of quantity derived from zero and units one of a series published periodically a symbol used to represent a number the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural) an item of merchandise offered for sale a clothing measurement the property possessed by a sum or total or indefinite quantity of units or individuals		相似短语 The number of prep....的数目 to the number of adv.达到...的数目,合计数为... number of package packages件数 number in 把...算作 in number adv.总共,在数字上 the number of prep....的数目 by number 总共 在数字上 用数字表示 number of periods number 期 数 atomic number n.[化]原子序数(指元素在周期表中按次序排列的序号) device number n.[计] 设备号		相似单词 number n.[C] 1.数；数字 2.号码；…号；第…号 3.电话号码 4.【英】车牌号码，登记号码 5.一首流行乐曲 6.[singular]数目；数量 7.[plural]（尤指参加某一活 E number n. E数 number letter 【计】 数字字母的 number plate n. 车辆牌照，汽车号牌 serial number n. 序列号 条形码 base number 底数 H number 【化】 H值; H数; Hf值(溶剂质量指标之一) number crunching n.[U] （用计算机进行的）特大数量的数字计算；数字密集运算 f number n. 焦距比数 level number 层号 用来指示资料项在层次结构中位置的一种引用号。 在某些资料存取方法的键顺序资料集的索引中，索引记录头标中的一种二进制数，指明该记录所属的索引层。		</string>
+
+
+</resources>
