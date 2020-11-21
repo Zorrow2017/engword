@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>chess blood</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>Welcome! <br><p>战国烽火兵戈，君王封侯拜帅。点齐五万大军，誓破千里长风。武将运筹帷幄，精兵三千出奇。谁胜谁负未可知，不要拘泥于传统的中国象棋套路。</p><br></div>
+
+
+
+        <main>
+            <h1>Chess Blood .README</h1>
+            <article title="Great Expectation">
+                <h2>Great Expectation</h2>
+                <ol>
+                    <li>棋子能在起始位置回血，比如左黑砲在(2,1)每个回合恢复10点血；</li>
+                    <li>棋子对不同敌方单位的攻击力不同，比如馬对相的伤害为20 对兵的伤害为200；</li>
+                    <li>可以连续悔棋很多步，当前版本只能悔棋一步；</li>
+                    <li>棋子移动规则，当前版本没有限制，所以可以乱走；</li>
+                    <li>经济产出，一个象/相每个回合可以从后方带来一万两黄金；</li>
+                    <li>经济产出，军营可以生产对应的军队，比如(2,1)能生产左黑砲，只需花费20万两黄金；</li>
+                    <li>主场优势，红色棋子在对方领土攻击+1，黑色棋子在己方领土生命回复+1/回合；</li>
+                    <li>将帅光环，每回合在将帅营帐中央的棋子攻击力永久+1或最大血量永久+1；</li>
+                    <li>并行模式，我方每个回合每个棋子都可以移动一次，点ends按钮结束当前回合；</li>
+                    <li>对战模式，敌方用AI自动控制，而不是玩家傻乎乎地自娱自乐；</li>
+                    <li>；</li>
+                    <li>；</li>
+                    <li>特技，武将曹操，（宁可我负天下人）所指挥棋子可以攻击己方军队；</li>
+                    <li>特技，武将唐僧，（百无一用）所指挥棋子攻击力减半；</li>
+                    <li>特技，武将孙悟空，（any access）所指挥棋子可以移动到任何空位或者攻击任何敌方单位；</li>
+                    <li>特技，武将燕双鹰，（独立大队）所指挥棋子可以获得一次额外的移动力；</li>
+                    <li>特技，勋章和平勋章，我方经济产出加倍；</li>
+                    <li>特技，勋章帝国勋章，我方所有棋子攻击力加倍；</li>
+                    <li>特技，勋章胜利勋章，每次回合结束后，都显示跟获取最终胜利后的特效一样的特效，比如放烟花；</li>
+                    <li>特技，勋章诺贝尔文学奖，每次点击將/帥，旁边的对话框都显示一句诗词，消灭对方一个棋子后显示一整首诗；</li>
+                    <li>特技，卡片全民皆兵，所有棋子获得一次额外的移动力；</li>
+                    <li>特技，卡片补给线，恢复某一棋子到满血状态；</li>
+                    <li>特技，卡片扎小人，敌方将帅每回合掉一滴血；</li>
+                    <li>特技，卡片战略轰炸，弄死除敌方将帅以外的某一棋子；</li>
+                    <li>特别鸣谢<a href="https://ieasytech.com/">easytech</a>，特技参考欧陆战争3(European War 3, European War 4)；</li>
+                </ol>
+            </article>
+
+
+            <article title="project structure">
+                <h2>project structure</h2>
+                <div><pre>
+                    程序设计十分不科学，硬编码多，高耦合，，；
+                    package chessblood;
+                    Test.java  POJO；
+                    MainBoard.java  自带main函数，显示窗口，主菜单、功能菜单区、工作区，工作区是2层的JLayeredPane；
+                    MainChessItem  绘制棋盘层；
+                    ChessItem.java  绘制棋子层，并且实现游戏的运行逻辑，太笨重。
+                </pre></div>
+            </article>
+
+
+            <article title="@deprecated code">
+                <h2>@deprecated code</h2>
+                <p>    private final int[][] BOARD_SPECIAL_PLACE = new int[][]{{0, -1}, {1, 3}, {1, 4}, {1, 5}, {2, 1}, {2, 3}, {2, 4}, {2, 5}, {2, 7}, {3, 0}, {3, 2}, {3, 4}, {3, 6}, {3, 8}, {-2, 14}};  //initial occupied place
+                </p>
+                <p>
+                    //to set bounds according to font size
+                    int fsize=rightMenuLabel.getFont().getSize();
+                    rightMenuLabel.setMaximumSize(new Dimension(fsize*16,fsize*8));
+                </p>
+            </article>
+        </main>
+
+
+
+    </body>
+</html>
