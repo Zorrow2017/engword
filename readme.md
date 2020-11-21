@@ -23,9 +23,23 @@ AndroidManifest.xml
 thanks.txt    
 a small amount of helpers for me, sincerely thank you!
 
+ * GetEngword.java    to crawl English words from a website
+
 
 Manual
 ------------------------
 see [help.txt](https://github.com/Zorrow2017/engword/blob/master/help.txt)
 
+
+Chess Blood
+------------------------
+chessblood is a simple Chinese Chess game, written for jdk1.8. 
+you can only play with a person, CANNOT with a computer! 
+every chess item has blood and attack atrribute, blood=0 means dead. 
+ * name:	"車"	"馬"	"象"	"卒"
+ * blood:	100	100	1000	10000
+ * attack:	-30	-20	-20	-10
+
+current chessblood version1.0.0, 
+Although current version is simple, it can be developed to a fantastic game fellowing [this plan](https://github.com/Zorrow2017/engword/blob/master/chessblood/readme.html)
 
